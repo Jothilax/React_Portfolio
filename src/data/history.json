@@ -1,0 +1,19 @@
+[
+  {
+    "role": "MERN Stack Developer Intern",
+    "organisation": "CodTech",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": ["Working on MERN stack projects", "Responsive websites"],
+    "imageSrc": "history/codtech.jpeg"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Dataspire Technologies Pvt Ltd",
+    "startDate": "Mar, 2022",
+    "endDate": "Dec, 2023",
+    "experiences": ["Worked as backend developer", "Wrote API and manual testing"],
+    "imageSrc": "history/dataspire.png"
+  }
+  
+]

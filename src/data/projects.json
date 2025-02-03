@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Chat Application",
+    "imageSrc": "projects/chat.png",
+    "description": "Developed a real-time chat application using the MERN stack, offering seamless communication with modern features and Integrated WebSocket (Socket.IO) for instant communication.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://chatapplicationweb-6nvr.onrender.com/",
+    "source": "https://github.com/Jothilax/ChatApplication"
+  },
+  {
+    "title": "Weather Application",
+    "imageSrc": "projects/weather.jpg",
+    "description": "Designed and developed a comprehensive weather application utilizing JavaScript and OpenWeatherMap API to provide users with accurate, real-time weather forecasts for any location.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://chatapplicationweb-6nvr.onrender.com/",
+    "source": "https://github.com/Jothilax"
+  },
+  {
+    "title": "Car Rental System",
+    "imageSrc": "projects/carrent.jpg",
+    "description": "Developed a responsive and scalable car rental system using the MERN (MongoDB, Express.js, React.js, Node.js) stack , enabling seamless user experiences for booking and managing car rentals.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://chatapplicationweb-6nvr.onrender.com/",
+    "source": "https://github.com/Jothilax"
+  }
+]
